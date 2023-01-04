@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Flutter and Web dev from India who is passionate about new techs.</h3>
 <!-- <img align=“right” alt=“coding” width=“400” src=“https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif”> -->
-<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p align="right"><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>
+<!-- <iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p align="right"><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astroabhi24&label=Profile%20views&color=0e75b6&style=flat" alt="astroabhi24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astroabhi24" alt="astroabhi24" /></a> </p>
