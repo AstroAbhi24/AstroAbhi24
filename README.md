@@ -4,8 +4,9 @@
 <!-- <iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p align="right"><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astroabhi24&label=Profile%20views&color=0e75b6&style=flat" alt="astroabhi24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astroabhi24" alt="astroabhi24" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astroabhi24&theme=onedark" alt="astroabhi24" /></a> </p>
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 - 🔭 I’m currently working on [Ticket Validation app](https://github.com/AstroAbhi24/ticket_validation_app_new.git)
 
 - 🌱 I’m currently learning **Flutter with firebase and MERN stack**
