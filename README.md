@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **python and DSA related stuffs**
 
-- 💬 Ask me about **python, C++ and**
+- 💬 Ask me about **python, C++ and C**
 
 - ⚡ Fun fact **I think coding made my handwritting worse..**
 
