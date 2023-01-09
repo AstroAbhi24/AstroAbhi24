@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astroabhi24&theme=onedark&no-frame=true" alt="astroabhi24" /></p>
 
 
-![snake gif](https://github.com/AstroAbhi24/AstroAbhi24/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/AstroAbhi24/AstroAbhi24/blob/output/github-contribution-grid-snake.gif) -->
