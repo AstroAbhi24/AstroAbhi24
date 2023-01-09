@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astroabhi24&show_icons=true&locale=en&theme=onedark&no-frame=true" alt="astroabhi24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astroabhi24&theme=onedark&no-frame=true" alt="astroabhi24" /></p>
+
+
+![snake gif](https://github.com/AstroAbhi24/AstroAbhi24/blob/output/github-contribution-grid-snake.gif)
