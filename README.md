@@ -1,6 +1,6 @@
 <img src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" alt="Abhi-banner">
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate Flutter and Web dev from India who is passionate about new techs.</h3>
+<h3 align="center">A passionate Flutter and Web dev from India who is sucker for new techs.</h3>
 <!-- <img align=“right” alt=“coding” width=“400” src=“https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif”> -->
 <!-- <iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p align="right"><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astroabhi24&label=Profile%20views&color=0e75b6&style=flat" alt="astroabhi24" /> </p>
