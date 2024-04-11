@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astroabhi24&theme=darkhub&no-frame=true" alt="astroabhi24" /></a> </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-- 🔭 I’m currently working on [Ticket Validation app](https://github.com/AstroAbhi24/ticket_validation_app_new.git)
+- 🔭 I’m currently working on [Portfolio]
 
 - 🌱 I’m currently learning **Flutter with firebase and MERN stack**
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **python, C++ and C**
 
-- ⚡ Fun fact **I think coding made my handwritting worse..**
+- ⚡ Fun fact **I think coding made my handwriting worse..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
