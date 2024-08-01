@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astroabhi24&theme=darkhub&no-frame=true" alt="astroabhi24" /></a> </p>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-- 🔭 I’m currently working on <a href"https://github.com/AstroAbhi24/users_app">Uber Clone</a>.
+- 🔭 I’m currently working on <a href"https://github.com/AstroAbhi24/users_app"> Uber Clone </a>.
 
 - 🌱 I’m currently learning **Flutter with firebase and MERN stack**
 
